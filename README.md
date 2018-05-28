@@ -14,7 +14,7 @@ cd vue-qunali
 # 安装相关依赖
 npm install
 
-# 开启本地服务器localhost:8088
+# 开启本地服务器localhost:8089
 npm run dev
 
 # 编译生产环境代码
